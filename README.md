@@ -1,7 +1,3 @@
-### GitHub README for `SinxWithThreadsAndAvx.cpp`
-
----
-
 # SinxWithThreadsAndAvx
 
 This project demonstrates the calculation of the sine function using multi-threading and AVX (Advanced Vector Extensions) for performance optimization. The goal is to compute an approximation of the sine function for a given set of input values, using both threading and SIMD (Single Instruction, Multiple Data) optimizations.
